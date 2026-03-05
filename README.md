@@ -1,0 +1,2 @@
+# Project-03-Linux-Server-Monitoring-using-Prometheus-and-Grafana
+This project demonstrates how to build a complete monitoring stack for Linux servers using Prometheus, Node Exporter, and Grafana. The monitoring system collects real-time system metrics such as CPU usage, memory usage, disk utilization, and network statistics. Grafana dashboards provide visualization and help detect system performance issues.
